@@ -1,0 +1,5 @@
+﻿  Cola.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\Daniel\Documents\UCenfotec\EstructurasDatos1\InvestigacionColasPilas\InvestigacionED1\Bicola\Bicola\Cola.cpp(55): warning C4715: 'Cola::eliminarElem': not all control paths return a value
+  Bicola.vcxproj -> C:\Users\Daniel\Documents\UCenfotec\EstructurasDatos1\InvestigacionColasPilas\InvestigacionED1\Bicola\Bicola\Debug\Bicola.exe
